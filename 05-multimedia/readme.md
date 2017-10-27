@@ -120,7 +120,7 @@ div {
 
   
 ### Picture
- * HTML5 element pro definici více variant obrázku v závidlosti na rozlišení/typu média
+ * HTML5 element pro definici více variant obrázku v závislosti na rozlišení/typu média
  * https://www.w3schools.com/tags/tag_picture.asp
 
   ```html
